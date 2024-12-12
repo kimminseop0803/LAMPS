@@ -1,0 +1,12 @@
+# DEBUG Mode
+DEBUG = True
+
+# OpenAI Model
+GPT_MODEL = 'gpt-4o'
+
+OPENAI_API_KEY = "Your-API-KEY"
+
+# LangSmith Info
+LANGCHAIN_PROJECT = "LAMPS"
+LANGSMITH_API_KEY = "Your-API-KEY"
+
